@@ -42,3 +42,11 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+
+# Olist path
+export PYTHONPATH="/Users/benjaminauzanneau/code/lewagon/data-solutions/04-Decision-Science:$PYTHONPATH"
+
+export PYTHONPATH="/Users/benjaminauzanneau/Desktop/lewagon:$PYTHONPATH"
+
+
+
